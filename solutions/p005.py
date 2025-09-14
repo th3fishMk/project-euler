@@ -1,4 +1,5 @@
-# problem 004
+# problem 005
+# Smallest multiple
 
 prime_numbers = [2, 3, 5, 7, 11, 13, 17, 19]
 

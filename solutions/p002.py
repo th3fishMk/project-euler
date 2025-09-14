@@ -1,4 +1,5 @@
 # Problem 002
+# Even fibonacci numbers
 
 fibs = [1, 2]
 sum = 0

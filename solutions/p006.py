@@ -1,4 +1,6 @@
-# problem 003
+# Problem 006
+# Sum square difference
+
 
 sumOfSquares = 0
 
