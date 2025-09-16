@@ -11,3 +11,9 @@ This is my personal attempt to solve this problems, although I am sure I will no
 ## Toolset
 
 I'll be using python, vscode, by browser, and of course my brain, no AI btw
+
+## Add me if you want
+
+Here is my friend code:
+
+2267648_Fin3YyJ26QlTv47DnVCaheVz1UV7ph4Y
